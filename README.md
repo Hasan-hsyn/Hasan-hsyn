@@ -1,13 +1,13 @@
 <h1 align="center">Merhaba, ben Hasan Hüseyin 👋</h1>
-<h3 align="center">Akdeniz Üniversitesi Uzay Bilimleri Öğrencisi & AI Geliştiricisi 🚀</h3>
+<h3 align="center">Akdeniz Üniversitesi Uzay Bilimleri ve Teknolojileri Öğrencisi & AI Geliştiricisi </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Hasan-hsyn&label=Profil%20Ziyaretçisi&color=0e75b6&style=flat" alt="hasan-hsyn" />
 </p>
 
 - 🔭 Şu anda **Yapay Zeka ve Derin Öğrenme** projeleri geliştiriyorum.
-- 🌱 Öğrendiklerim: **Fizik, Uzay Bilimleri, Python, C++, Almanca**
-- 🏎️ İlgi Alanlarım: **Alman Otomotiv Mühendisliği & Finansal Piyasalar**
+- 🌱 Öğrenme Aşamasında Olduklarım: **Fizik, Uzay Bilimleri, Python, C++, Almanca**
+- 🏎️ İlgi Alanlarım: **Alman Otomotiv Mühendisliği, Finansal Piyasalar, Uzay Bilimleri, Fizik, Mermer Zanaatı, Sayısal Ağarlıklı Konular**
 - 📫 İletişim: **hasanhsyn0318@gmail.com**
 
 <h3 align="left">Bağlantılar:</h3>
